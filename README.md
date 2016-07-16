@@ -1,6 +1,6 @@
 ## One Dark Syntax theme (Material)
 
-![one-dark-syntax](https://cloud.githubusercontent.com/assets/378023/7783203/49271ef6-0174-11e5-8eb1-d80b8d34a0e3.png)
+![one-dark-syntax](https://raw.githubusercontent.com/Gum-Joe/one-dark-material-syntax/master/example/example.png)
 
 ### Installation
 
