@@ -6,5 +6,5 @@
 
 Run:
 ```bash
-apm install one-dark-material-syntax
+apm install Gum-Joe/one-dark-material-syntax
 ```
