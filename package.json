@@ -10,7 +10,7 @@
     "material",
     "material ui"
   ],
-  "repository": "https://github.com/atom/one-dark-syntax",
+  "repository": "https://github.com/Gum-Joe/one-dark-material-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
